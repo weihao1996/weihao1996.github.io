@@ -1,0 +1,26 @@
+a:link {
+	color:#eee;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: underline;
+	color:red;
+}
+a:hover {
+	background-color：red;
+	color:green;
+
+}
+a:active :{
+	font-size:30px;
+}
+body {
+	background-color: #fff;
+	background-position: 50% 50%;
+}
+h1 {
+	text-align: center;
+	padding: 10px;
+	border:1px rgba(200, 0, 0, 0.5) solid;
+	 
+}
